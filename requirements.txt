@@ -1,0 +1,18 @@
+Python 3.10.0
+argparse==1.4.0
+datetime==4.3
+matplotlib==2.2.2
+numpy==1.14.5
+pandas==0.23.4
+prophet==1.1.1
+prophet.diagonistics==1.0.0
+prophet.plot==1.0.0
+
+
+
+
+
+
+
+
+
